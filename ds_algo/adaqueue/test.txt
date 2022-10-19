@@ -1,0 +1,14 @@
+12
+toFront 93
+reverse
+back
+back
+reverse
+toFront 80
+push_back 53
+push_back 50
+reverse
+push_back 66
+reverse
+front
+toFront 93
