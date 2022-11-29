@@ -1,0 +1,11 @@
+10 1
+frodo 1
+imdyinginside 10000000
+frodo 2
+harrypotter 2
+harrypotter 2
+harrypotter 2
+harrypotter 2
+harrypotter 2
+harrypotter 2
+harrypotter 2
